@@ -189,7 +189,7 @@
 <wire x1="70.866" y1="23.622" x2="70.866" y2="-0.508" width="0" layer="20"/>
 <wire x1="70.866" y1="-0.508" x2="-0.762" y2="-0.508" width="0" layer="20"/>
 <text x="55.626" y="20.574" size="2.032" layer="21">mowgli</text>
-<text x="59.69" y="19.05" size="0.8128" layer="21">ver 0.1.0</text>
+<text x="56.5404" y="18.9992" size="0.8128" layer="21">LoRa ver 0.1.0</text>
 <text x="50.546" y="8.89" size="1.778" layer="22" rot="MR0">http://pvos.org/mowgli</text>
 <text x="4.572" y="16.764" size="0.8128" layer="25" font="vector" rot="R90">DTR</text>
 <text x="4.572" y="15.875" size="0.8128" layer="26" font="vector" rot="MR270">TX</text>
