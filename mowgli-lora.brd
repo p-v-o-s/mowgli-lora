@@ -148,7 +148,7 @@
 <text x="18.161" y="19.05" size="0.8128" layer="25" font="vector">VIN</text>
 <text x="20.701" y="19.05" size="0.8128" layer="25">3.3</text>
 <text x="23.495" y="19.05" size="0.8128" layer="25">TX</text>
-<text x="26.035" y="18.288" size="0.8128" layer="25">RX</text>
+<text x="26.1366" y="18.9484" size="0.8128" layer="25">RX</text>
 <text x="28.575" y="19.05" size="0.8128" layer="25">NC</text>
 <text x="31.115" y="19.05" size="0.8128" layer="25">NC</text>
 <text x="33.655" y="19.05" size="0.8128" layer="25">A5</text>
